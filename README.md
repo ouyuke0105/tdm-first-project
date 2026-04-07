@@ -8,4 +8,4 @@
 本项目主要用于GitHub基础操作练习，可帮助学习者熟悉仓库创建、文档编辑、版本控制等核心操作，适用于Git入门学习场景。
 
 1.  克隆仓库到本地：执行 `git clone https://github.com/tangdongmei2/tdm-first-project.git`
-2.  在本地或GitHub网页端编辑README文件，提交修改并推送到远程仓库，完成GitHub基础操作练习
+2.  点击 README.md 文件，再点击右上角铅笔图标进入编辑页，点击页面右上角「Commit changes」，在弹窗中直接点击绿色按钮提交，完成保存
